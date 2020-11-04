@@ -7,5 +7,5 @@ This is a NetFlix clone build using
 
 ## https://netflix-clone-3830c.web.app/
 
-This build uses TMBD (a third party api) for the data 
+This build uses TMBD (a third party API) for the data 
 
